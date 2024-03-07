@@ -6,9 +6,9 @@ The Disease Management System, developed by Group ACS, is a comprehensive digita
 
 ## Contributors
 
-- **Chinmay Deshpande** (ID: 002859266)
-- **Amey Satwe** (ID: 002244396)
-- **Shreya Thakur** (ID: 002818444)
+- **Chinmay Deshpande**
+- **Amey Satwe** 
+- **Shreya Thakur** 
 
 ## Features and Functionalities
 
